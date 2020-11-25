@@ -1,3 +1,3 @@
 参考资料
 
-![relationship](img\relationship.png)
+![relationship](img/relationship.png)
