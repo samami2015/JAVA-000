@@ -30,4 +30,4 @@
 
    -  数据库查询结果
 
-     ![image-20201202224415194](C:\Users\wangsen\Documents\projects\Java_Course\referenc\JAVA-000\Week_07\result.png)
+     ![image-20201202224415194](result.png)
